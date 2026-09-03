@@ -10,3 +10,4 @@ class Solution:
             ret.append(d[i])
         return ret
         
+        
